@@ -15,9 +15,7 @@ If you would like to contribute to this list, please check out [CONTRIBUTING.md]
 Please ensure your pull request adheres to the following guidelines:
 
 * Use the following format: 
-   * `[Module Name](link)`
-   * Status: **Stable** or **In Development**
-   * Brief Description of what the module does
+   * `[Module Name](link)` (Status: **Stable** or **In Development**) - Brief Description of what the module does
 * Make an individual pull request for each new item.
 * Link additions should be inserted alphabetically to the relavant category
 * New categories or improvements to the existing categorization are welcome.
@@ -46,9 +44,13 @@ To the extent possible under law, the owner has waived all copyright and related
 ## The List
 
 ### Solution Packs
+* [Islandora Document Solution Pack](https://github.com/discoverygarden/islandora_solution_pack_document) (Stable) - Provides a collection and a content model for users’ documents. Documents are converted to the pdf format to display them. This solution pack needs OpenOffice running as a service and also the JODCoverter library installed.
+* [Islandora EAD Solution Pack](https://github.com/DrexelUniversityLibraries/islandora_solution_pack_ead) (Stable) - Provides functionality for ingestion and management of EADs.
 
 ### Utility Modules
+* [Islandora Drag & Drop](https://github.com/unc-charlotte-libraries/islandora_ingest_dragndrop) (Stable) - This ingest module provides a methodology for creating a drag-and-drop batch ingest workflow powered by a local Linux-based NAS system integrated with an Islandora ingest server.
 
 ### Viewers
 
 ### Demo/Training Modules
+* [Islandora Procus](https://github.com/ajstanley/islandora_porcus) (In Development) - Developed for the first Islandora Camp Developer's Track workshop and refined at subsequent camps. On the surface, Porcus is a module that will take text and translate it to pig latin. Check under the hood and you will find a heavily commented training tool that presents the basics of module development for Islandora and provides a handy reference for how the various parts interact.
