@@ -7,6 +7,11 @@ A curated list of great modules for Islandora that are not included in the core 
 These community modules are mostly functional or well on their way. Some may find their way into future releases as part of the standard Islandora suite. Others may always stand alone, but they all add useful functionality and new tools. We offer this list for discovery, but do not officially provide support for any of these modules.
 
 ## Table of Contents
+   * [Solution Packs](#solution-packs)
+   * [Utility Modules](#utility-modules)
+   * [Viewers](#viewers)
+   * [Demo Modules](#demo-modules)
+   * [Other](#other)
 
 ## Contribute
 
@@ -52,5 +57,7 @@ To the extent possible under law, the owner has waived all copyright and related
 
 ### Viewers
 
-### Demo/Training Modules
+### Demo Modules
 * [Islandora Procus](https://github.com/ajstanley/islandora_porcus) (In Development) - Developed for the first Islandora Camp Developer's Track workshop and refined at subsequent camps. On the surface, Porcus is a module that will take text and translate it to pig latin. Check under the hood and you will find a heavily commented training tool that presents the basics of module development for Islandora and provides a handy reference for how the various parts interact.
+
+### Other
