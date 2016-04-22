@@ -53,6 +53,7 @@ To the extent possible under law, the owner has waived all copyright and related
 * [Islandora Document Solution Pack](https://github.com/discoverygarden/islandora_solution_pack_document) (Stable) - Provides a collection and a content model for users’ documents. Documents are converted to the pdf format to display them. This solution pack needs OpenOffice running as a service and also the JODCoverter library installed.
 * [Islandora EAD Solution Pack](https://github.com/DrexelUniversityLibraries/islandora_solution_pack_ead) (Stable) - Provides functionality for ingestion and management of EADs.
 * [Islandora Manuscript Solution Pack](https://github.com/discoverygarden/islandora_solution_pack_manuscript) (Stable) - Allows users to create and view Manuscripts. Including the upload of TEI and XSLT and CSS documents. Users will be able to view transformed manuscript TEI (via the upload XSLT) side by side with the image(s) of the manuscript (via the Open Seadragon viewer). Users will also be able to browse Manuscripts via Box / Folder hierarchies as defined by their record in an associated finding aid.
+* [Islandora Streaming Media Solution Pack](https://github.com/rosiel/islandora_solution_pack_streaming_media) (Stable) - Create and manage Islandora objects representing streaming resources.
 
 ### Utility Modules
 * [Islandora Authority](https://github.com/discoverygarden/islandora_authority) (Stable) - This module adds two Drupal form API elements and a menu path used for autocompletion on one of them.
@@ -86,6 +87,9 @@ To the extent possible under law, the owner has waived all copyright and related
 * [Piggy Back](https://github.com/ppound/islandora_piggyback) (N/A) - An extension for the Porcus module with additional demonstrations and tools. Created for Islandora Camp CA 2014.
 
 ### Other
+
+#### Tools
+* [Move to Islandora Kit](https://github.com/MarcusBarnes/mik) (Stable) - Converts source content files and accompanying metadata into ingest packages used by existing Islandora batch ingest modules.
 
 #### Guides
 * [Modify Islandora objects on-the-fly using Devel “Execute PHP Code”](http://dltj.org/article/modify-islandora-objects-using-devel-module/)
