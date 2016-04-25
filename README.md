@@ -2,9 +2,9 @@
 
 ## Introduction
 
-A curated list of great modules for Islandora 7.x-1.x that are not included in the core release. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
+A curated list of great modules and other tools for Islandora 7.x-1.x that are not included in the core release. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-These community modules are mostly functional or well on their way. Some may find their way into future releases as part of the standard Islandora suite. Others may always stand alone, but they all add useful functionality and new tools. We offer this list for discovery, but do not officially provide support for any of these modules.
+These community modules are mostly functional or well on their way. Some may find their way into future releases as part of the standard Islandora suite. Others may always stand alone, but they all add useful functionality and new tools. We offer this list for discovery, but do not officially provide support for any of these modules. Their maintainers may offer support - check the READMEs.
 
 ## Table of Contents
    * [Solution Packs](#solution-packs)
