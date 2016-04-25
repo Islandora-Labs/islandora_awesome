@@ -85,6 +85,7 @@ To the extent possible under law, the owner has waived all copyright and related
 * [Islandora Porcus](https://github.com/ajstanley/islandora_porcus) (N/A) - Developed for the first Islandora Camp Developer's Track workshop and refined at subsequent camps. On the surface, Porcus is a module that will take text and translate it to pig latin. Check under the hood and you will find a heavily commented training tool that presents the basics of module development for Islandora and provides a handy reference for how the various parts interact. Created For Islandora Camp NY 2013.
 * [Islandora Meme Solution Pack]() (N/A) - Created for Islandora Camp Colorado 2014 in order to provide a framework to learn how to query solr in Islandora.
 * [Piggy Back](https://github.com/ppound/islandora_piggyback) (N/A) - An extension for the Porcus module with additional demonstrations and tools. Created for Islandora Camp CA 2014.
+* [Islandora Dev 101](https://github.com/mjordan/islandora_dev101) - Not a module containing executable code, but a text for a 2 or more hour workshop on Islandora 7.x-1.x development. Aimed at people who have some expeience developing in PHP but not necessarily experience with Drupal.
 
 ### Other
 
