@@ -4,6 +4,8 @@ If you are reading this document then you are interested in contributing to Isla
 
 We also have an irc channel -- #islandora -- on freenode.net. Feel free to hang out there, ask questions, and help others out if you can.
 
+Please note that this CONTRIBUTING.md file differs from our standard in the [Contribute Code](contribute-code) and [License Agreements](license-agreements) sections because Awesome Islandora is shared on a [CC0 Public Domain license](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## Workflows
 
 Islandora Committers Calls happen every Thursday at 2PM EST. The meetings are generally held on Skype, and you can join the calls by sending a request to community@islandora.ca.
@@ -67,7 +69,17 @@ To join an Islandora Release Team, sign up for one or more modules in any of the
 
 ### Contribute code
 
-Before you set out to contribute code you will need to have completed a [Contributor License Agreement](http://islandora.ca/sites/default/files/islandora_cla.pdf) or be covered by a [Corporate Contributor Licencse Agreement](http://islandora.ca/sites/default/files/islandora_ccla.pdf). The signed copy of the license agreement should be sent to <mailto:community@islandora.ca>
+For most Islandora contributions, you would need to have completed a [Contributor License Agreement](http://islandora.ca/sites/default/files/islandora_cla.pdf) or be covered by a [Corporate Contributor Licencse Agreement](http://islandora.ca/sites/default/files/islandora_ccla.pdf). Awesome Islandora is shared on a [CC0 Public Domain license](https://creativecommons.org/publicdomain/zero/1.0/), as are all additions. By contributing to the list, your additions will also be shared under this licence. A CLA is not required for contributions to Awesome Islandora.
+
+To contribute to Awesome Islandora please ensure your pull request adheres to the following guidelines:
+
+Use the following format:
+[Module Name](link) (Status: Stable or In Development) - Brief Description of what the module does
+Make an individual pull request for each new item.
+Link additions should be inserted alphabetically to the relavant category
+New categories or improvements to the existing categorization are welcome.
+Check your spelling and grammar.
+The pull request and commit should have a useful title.
 
 _If you are interested in contributing code to Islandora but do not know where to begin:_
 
@@ -123,4 +135,6 @@ The pull request process will roughly look like this:
 
 ## License Agreements
 
-The Islandora Foundation requires that contributors complete a [Contributor License Agreement](http://islandora.ca/sites/default/files/islandora_cla.pdf) or be covered by a [Corporate Contributor License Agreement](http://islandora.ca/sites/default/files/islandora_ccla.pdf). The signed copy of the license agreement should be sent to <a href="mailto:community@islandora.ca?Subject=Contributor%20License%20Agreement" target="_top">community@islandora.ca</a>. This license is for your protection as a contributor as well as the protection of the Foundation and its users; it does not change your rights to use your own contributions for any other purpose. A list of current CLAs is kept [here](https://github.com/Islandora/islandora/wiki/Contributor-License-Agreements).
+The Islandora Foundation normally requires that contributors complete a [Contributor License Agreement](http://islandora.ca/sites/default/files/islandora_cla.pdf) or be covered by a [Corporate Contributor License Agreement](http://islandora.ca/sites/default/files/islandora_ccla.pdf). The signed copy of the license agreement should be sent to <a href="mailto:community@islandora.ca?Subject=Contributor%20License%20Agreement" target="_top">community@islandora.ca</a>. This license is for your protection as a contributor as well as the protection of the Foundation and its users; it does not change your rights to use your own contributions for any other purpose. A list of current CLAs is kept [here](https://github.com/Islandora/islandora/wiki/Contributor-License-Agreements).
+
+Awesome Islandora is shared on a [CC0 Public Domain license](https://creativecommons.org/publicdomain/zero/1.0/), as are all additions. By contributing to the list, your additions will also be shared under this licence. A CLA is not required for contributions to Awesome Islandora.
