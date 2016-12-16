@@ -116,6 +116,7 @@ To the extent possible under law, the owner has waived all copyright and related
 
 #### Tools
 * [Move to Islandora Kit](https://github.com/MarcusBarnes/mik) (Stable) - Converts source content files and accompanying metadata into ingest packages used by existing Islandora batch ingest modules.
+* [Gist to clone/pull All of Islandora Repos](https://gist.github.com/DonRichards/13ed08b62c4a542eee75470529ab0eff) - Bash/Python Scripts that will either clone or pull updates from all of the Islandora repos (Islandora/Islandora-Labs/CLAW)
 
 #### Guides
 * [Modify Islandora objects on-the-fly using Devel “Execute PHP Code”](http://dltj.org/article/modify-islandora-objects-using-devel-module/)
