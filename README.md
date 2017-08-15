@@ -128,4 +128,5 @@ To the extent possible under law, the owner has waived all copyright and related
 
 #### Guides
 * [Modify Islandora objects on-the-fly using Devel “Execute PHP Code”](http://dltj.org/article/modify-islandora-objects-using-devel-module/)
+* [REST API](http://digital.lib.sfu.ca/rest-api) - Documents in detail how to read (GET) data from an Islandora instance running the [Islandora REST](https://github.com/discoverygarden/islandora_rest) module.
 * [Styling Islandora XML Form Fields](https://chillco.com/blog/styling-islandora-xml-form-fields)
