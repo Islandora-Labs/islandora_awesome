@@ -122,6 +122,7 @@ To the extent possible under law, the owner has waived all copyright and related
 * [Islandora Meme Solution Pack]() (N/A) - Created for Islandora Camp Colorado 2014 in order to provide a framework to learn how to query solr in Islandora.
 * [Piggy Back](https://github.com/ppound/islandora_piggyback) (N/A) - An extension for the Porcus module with additional demonstrations and tools. Created for Islandora Camp CA 2014.
 * [Islandora Dev 101](https://github.com/mjordan/islandora_dev101) - Not a module containing executable code, but a text for a 2 or more hour workshop on Islandora 7.x-1.x development. Aimed at people who have some expeience developing in PHP but not necessarily experience with Drupal.
+* [Islandora Youtube](https://github.com/rosiel/islandora_youtube) - A novelty module for storing metadata about YouTube videos in Islandora. The OBJ is a redirect (R) datastream containing the YouTube URL, and the object page displays the video in an embedded player (if the video allows embedding).
 
 ### Other
 
