@@ -59,6 +59,7 @@ To the extent possible under law, the owner has waived all copyright and related
 * [Islandora Serials Solution Pack](https://github.com/discoverygarden/islandora_solution_pack_serial) (Stable) - Adds all required Fedora objects to allow users to model, ingest and view objects modelled as serials within the Islandora interface.
 * [Islandora Streaming Media Solution Pack](https://github.com/rosiel/islandora_solution_pack_streaming_media) (Stable) - Create and manage Islandora objects representing streaming resources.
 * [Islandora XML Solution Pack](https://github.com/mjordan/islandora_solution_pack_xml) (Stable) - An Islandora Solution Pack that allows for ingesting and viewing arbitrary types of XML files. Support viewers and includes a custom batch loader.
+* [Islandora Archivesspace Integration](https://github.com/lyrasis/islandora-playbook) (In development) - An Islandora Solution pack that creates an integration with Archivesspace. Metadata for items stored in Archivesspace comes from Archivesspace, and the binary item is stored in Islandora.
 
 ### Utility Modules
 * [Islandora Authority](https://github.com/discoverygarden/islandora_authority) (Stable) - This module adds two Drupal form API elements and a menu path used for autocompletion on one of them.
