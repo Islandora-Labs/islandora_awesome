@@ -62,6 +62,7 @@ To the extent possible under law, the owner has waived all copyright and related
 * [Islandora Archivesspace Integration](https://github.com/lyrasis/islandora_aspace) (In development) - An Islandora Solution pack that creates an integration with Archivesspace. Metadata for items stored in Archivesspace comes from Archivesspace, and the binary item is stored in Islandora.
 
 ### Utility Modules
+* [DGI Batch Queue ID Fixer](https://github.com/discoverygarden/dgi_batch_queue_id_fixer) (Stable) - Fixes an issue where batches triggered within an already existing batch set can lead to unexpected behavior as the IDs in the DrupalQueue are not unique.
 * [Islandora Authority](https://github.com/discoverygarden/islandora_authority) (Stable) - This module adds two Drupal form API elements and a menu path used for autocompletion on one of them.
 * [Islandora Batch with Derivs](https://github.com/mjordan/islandora_batch_with_derivs) (Stable) - Specialized batch ingest module that ingests objects with prederived datastreams.
 * [Islandora Block Options](https://github.com/echidnacorp/block_islandora_options) (Stable) - Adds additional placement options to all blocks for Islandora options that are similar to the content type options for nodes. Adds the ability to limit blocks visibility based on the cmodel being viewed.
