@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A curated list of great modules and other tools for Islandora 7.x-1.x and 8.x that are not included in the core release. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
+A curated list of great modules and other tools for Islandora 7.x-1.x and 8.x-1.x that are not included in the core release. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 These community modules are mostly functional or well on their way. Some may find their way into future releases as part of the standard Islandora suite. Others may always stand alone, but they all add useful functionality and new tools. We offer this list for discovery, but do not officially provide support for any of these modules. Their maintainers may offer support - check the READMEs.
 
@@ -13,7 +13,7 @@ These community modules are mostly functional or well on their way. Some may fin
       * [Viewers](#viewers)
       * [Demo Modules](#demo-modules)
       * [Other](#other)
-   * [Islandora 8.x](#the-islandora-8x-list)
+   * [Islandora 8.x-1.x](#the-islandora-8x1x-list)
 
 ## Contribute
 
@@ -146,5 +146,5 @@ To the extent possible under law, the owner has waived all copyright and related
 * [REST API](http://digital.lib.sfu.ca/rest-api) - Documents in detail how to read (GET) data from an Islandora instance running the [Islandora REST](https://github.com/discoverygarden/islandora_rest) module.
 * [Styling Islandora XML Form Fields](https://chillco.com/blog/styling-islandora-xml-form-fields)
 
-### The Islandora 8.x List
+### The Islandora 8.x-1.x List
 * [Islandora Whole Object](https://github.com/mjordan/islandora_whole_object) (In development) - A module that adds a tab showing the various components of an islandora 8.x node, for example, its RDF properties, its representation in Fedora, its media, and its Solr document.
