@@ -13,7 +13,7 @@ These community modules are mostly functional or well on their way. Some may fin
       * [Viewers](#viewers)
       * [Demo Modules](#demo-modules)
       * [Other](#other)
-   * [Islandora 8.x-1.x](#the-islandora-8x1x-list)
+   * [Islandora 8.x-1.x](#the-islandora-8x-1x-list)
 
 ## Contribute
 
