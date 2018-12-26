@@ -148,3 +148,4 @@ To the extent possible under law, the owner has waived all copyright and related
 
 ### The Islandora 8.x-1.x List
 * [Islandora Whole Object](https://github.com/mjordan/islandora_whole_object) (In development) - A module that adds a tab showing the various components of an islandora 8.x node, for example, its RDF properties, its representation in Fedora, its media, and its Solr document.
+* [Islandora Bagger](https://github.com/mjordan/islandora_bagger) (In development) - A command-line utility for generating Bags from Islandora nodes. Specific content is added to the Bag's `/data` directory and `bag-info.txt` file using plugins.
