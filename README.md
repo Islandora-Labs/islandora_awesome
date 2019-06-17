@@ -51,6 +51,7 @@ To the extent possible under law, the owner has waived all copyright and related
 ## The Islandora 7.x-1.x List
 
 ### Solution Packs
+* [Islandora 3D Solution Pack](https://github.com/TheLanguageArchive/islandora_solution_pack_3D) (Stable) - Islandora solution pack for 3D objects. Assumes a compound object with at least a COLLADA (DAE) file as a child and any texture image files as children. Uses the [three.js](https://threejs.org/) javascript library.
 * [Islandora Binary Solution Pack](https://github.com/Islandora-Labs/islandora_binary_object) (Stable) - Adds all required Fedora objects to allow users to ingest supplemental files through the Islandora interface. Used best in conjunction with the Islandora Compound Solution Pack.
 * [Islandora Database Solution Pack](https://github.com/axfelix/islandora_solution_pack_database) (Stable) - Allows a user to ingest database dumps (.SQL files) as Islandora objects that are then spun up into live, browsable (read-only) database instances using [Docker](https://www.docker.com/) and [Adminer](http://www.adminer.org/).
 * [Islandora Document Solution Pack](https://github.com/discoverygarden/islandora_solution_pack_document) (Stable) - Provides a collection and a content model for users’ documents. Documents are converted to the pdf format to display them. This solution pack needs OpenOffice running as a service and also the JODCoverter library installed.
