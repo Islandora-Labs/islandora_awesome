@@ -145,6 +145,7 @@ To the extent possible under law, the owner has waived all copyright and related
 ### Other
 
 #### Tools
+* [Automating Ingest for repeat collections](https://github.com/utkdigitalinitiatives/Automated-Ingest-for-Continuing-Publications) - A bash script intended to be a script to run as a cron job to automate repeat publications (like yearbooks, magaine issues) where the metadata only changes minimally.
 * [BookPrep](https://github.com/utkdigitalinitiatives/bookprep) (Testing) - A CLI PHP script that will rearrange directories and files from one format to another and also create derivatives to prepare items for a book-type ingest.
 * [centos7_base_box](https://github.com/pc37utn/centos7_base_box)(Testing) - creates a similar base box to the islandora_base_box but with a CentOS 7 operating system. Useful for making a Redhat based developement system. Requires a customized islandora_vagrant to pull it in and use it.
 * [DGI JAAS Implementations](https://github.com/discoverygarden/fcrepo3-security-jaas)(Stable) - Contains both a thread safety fix for Fedora 3 and a performance enhancement for the islandora_drupal_filter.
