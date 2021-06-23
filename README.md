@@ -173,5 +173,6 @@ Views that are useful. To import a single config go to __admin/config/developmen
 
 #### Full Taxonomy List Page with sticky nav
 Displays all taxonomy terms in a single list with a nav that takes the visitor to the anchor matching the first letter.
-![taxonomy_terms](https://user-images.githubusercontent.com/2738244/123140356-33a10080-d425-11eb-8873-ec49e9db65d7.png)
-[Link](https://gist.github.com/DonRichards/7d2875342a594d7cc0a62a517a92dc12)
+* [Link to Config](https://gist.github.com/DonRichards/7d2875342a594d7cc0a62a517a92dc12)
+* ![taxonomy_terms](https://user-images.githubusercontent.com/2738244/123140356-33a10080-d425-11eb-8873-ec49e9db65d7.png)
+
