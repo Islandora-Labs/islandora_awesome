@@ -9,11 +9,11 @@ For Islandora 2.0 (formerly Islandora 8) modules, see the [Islandora Cookbook](h
 These community modules are mostly functional or well on their way. They add useful features and new tools to supplement core Islandora functionality. We offer this list for discovery, but do not officially provide support for any of these modules. Their maintainers may offer support - check the READMEs.
 
 ## Table of Contents
-    * [Solution Packs](#solution-packs)
-    * [Utility Modules](#utility-modules)
-    * [Viewers](#viewers)
-    * [Demo Modules](#demo-modules)
-    * [Other](#other)
+  * [Solution Packs](#solution-packs)
+  * [Utility Modules](#utility-modules)
+  * [Viewers](#viewers)
+  * [Demo Modules](#demo-modules)
+  * [Other](#other)
 
 ## Contribute
 
