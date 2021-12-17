@@ -67,6 +67,7 @@ To the extent possible under law, the owner has waived all copyright and related
 * [Islandora Archivesspace Integration](https://github.com/lyrasis/islandora_aspace) (In development) - An Islandora Solution pack that creates an integration with Archivesspace. Metadata for items stored in Archivesspace comes from Archivesspace, and the binary item is stored in Islandora.
 
 ### Utility Modules
+* [Linked Data Lookup Field](https://www.drupal.org/project/linked_data_field) (Stable) - Provides an autocomplete field widget that pulls suggested matches and URLs from authoritative sources.
 * [DGI Batch Queue ID Fixer](https://github.com/discoverygarden/dgi_batch_queue_id_fixer) (Stable) - Fixes an issue where batches triggered within an already existing batch set can lead to unexpected behavior as the IDs in the DrupalQueue are not unique.
 * [Islandora Authority](https://github.com/discoverygarden/islandora_authority) (Stable) - This module adds two Drupal form API elements and a menu path used for autocompletion on one of them.
 * [Islandora Batch with Derivs](https://github.com/mjordan/islandora_batch_with_derivs) (Stable) - Specialized batch ingest module that ingests objects with prederived datastreams.
@@ -144,6 +145,7 @@ To the extent possible under law, the owner has waived all copyright and related
 ### Other
 
 #### Tools
+* [Workbench](https://github.com/mjordan/islandora_workbench) (Stable) - A command-line tool that allows creation, updating, and deletion of Islandora content from CSV data. Islandora Workbench is an alternative to using Drupal's built-in Migrate tools for ingesting Islandora content from CSV files.
 * [BookPrep](https://github.com/utkdigitalinitiatives/bookprep) (Testing) - A CLI PHP script that will rearrange directories and files from one format to another and also create derivatives to prepare items for a book-type ingest.
 * [centos7_base_box](https://github.com/pc37utn/centos7_base_box)(Testing) - creates a similar base box to the islandora_base_box but with a CentOS 7 operating system. Useful for making a Redhat based developement system. Requires a customized islandora_vagrant to pull it in and use it.
 * [DGI JAAS Implementations](https://github.com/discoverygarden/fcrepo3-security-jaas)(Stable) - Contains both a thread safety fix for Fedora 3 and a performance enhancement for the islandora_drupal_filter.
