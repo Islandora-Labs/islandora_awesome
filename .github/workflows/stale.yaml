@@ -1,0 +1,9 @@
+name: 'Manage stale issues and PRs'
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '56 7 * * *'
+jobs:
+  stale:
+    uses: Islandora-Labs/.github/.github/workflows/stale.yaml@main
+    secrets: inherit
